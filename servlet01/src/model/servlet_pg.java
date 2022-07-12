@@ -17,7 +17,6 @@ public class servlet_pg extends HttpServlet {
      */
     public servlet_pg() {
         super();
-        // TODO Auto-generated constructor stub
     }
 
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
