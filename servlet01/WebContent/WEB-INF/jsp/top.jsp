@@ -8,7 +8,7 @@
 </head>
 <body>
 	<div class=""> 	<!--背景写真の設定-->>
-		<div class="">		<!---->
+		<div class="" style ="background-color: #fff;">	<!--背景白-->
 			<h1>企業情報検索システム</h1>
 			<form action="ga_login.jsp">
 				<div>
