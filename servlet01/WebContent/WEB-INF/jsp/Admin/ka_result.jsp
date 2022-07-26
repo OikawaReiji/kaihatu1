@@ -7,6 +7,21 @@
 <title>Insert title here</title>
 </head>
 <body>
+	<div>
+         <h1>登録確認</h1>
+          <form action="" method="POST">
+             <label><h3>名前</h3></label>
+                <p><input type="text" name="name"></p><br>
+                <label><h3>ID</h3></label>
+                <p><input type="text" name="id"></p><br>
+                <label><h3>パスワード</h3></label>
+                <p><input type="text" name="pass"></p><br>
 
+                <input type="submit" value="登録">
+            </form>
+        </div>
+        <button class="ui red button">
+        	ログインページへ
+		</button>
 </body>
 </html>
